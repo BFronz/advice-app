@@ -1,7 +1,3 @@
-https://nameless-sierra-08130.herokuapp.com/
-
-ADVICE SLIP JASON API
-
 # Advice App
   
 ReactJS API data fetching project. Button click fetches quaint advice. 
@@ -28,7 +24,7 @@ Run  npm start
 
 
 
-## Special Features
+## Features
 
 Runs on heroku.com: https://nameless-sierra-08130.herokuapp.com/
 
